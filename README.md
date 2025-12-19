@@ -4,7 +4,7 @@
 
 A K-Nearest Neighbors (KNN) classifier used to predict wine quality based on physicochemical features.
 
-## Dataset
+# Dataset
 
 * **Source**: UCI Machine Learning Repository
 * **Features**: Alcohol, pH, Sulphates, Citric Acid, etc.
